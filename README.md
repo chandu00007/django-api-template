@@ -29,7 +29,7 @@ $ python3 -m django startproject \
 
 After that just install the local dependencies
 ```bash
-$ cd <project_name>
+$ cd {{project_name}}
 $ pip3 install -r requirements.txt
 ```
 
